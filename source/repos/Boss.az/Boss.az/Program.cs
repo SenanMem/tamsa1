@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using Base;
 
 namespace Boss.az
 {
@@ -6,7 +8,11 @@ namespace Boss.az
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            while (true)
+            {
+                Console.WriteLine();
+            }
         }
     }
 }

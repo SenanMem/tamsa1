@@ -3,19 +3,21 @@ using Employer;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Worker;
+using _Worker;
+using System.Collections;
 
 namespace Base
 {
     class DataBase
     {
-        public List<_Worker> workers { get; set; }
-        public List<_Employer> employers { get; set; }
-        public List<CV> workerCVs { get; set; } //iscilerin hazir CV-leri
-        public List<CV> employerCVs { get; set; } //is verenlerin hazir CV-leri
-        public List<string> category { get; set; }
-        public StringBuilder informationAbout { get; set; }
-        public ChatBot chatBot { get; set; }
-        public List<Admin> admins { get; set; }
+        public List<Worker> workers { get; set; } = null;
+        public List<_Employer> employers { get; set; } = null;
+        public List<CV> workerCVs { get; set; } = null; //iscilerin hazir CV-leri
+        public List<CV> employerCVs { get; set; } = null; //is verenlerin hazir CV-leri
+        public Dictionary<string,string> category { get; set; } = null;
+        public StringBuilder informationAbout { get; set; } = null;
+        public ChatBot chatBot { get; set; } = null;
+        public List<Admin> admins { get; set; } = null;
+       
     }
 }

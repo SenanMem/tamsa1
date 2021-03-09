@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Boss.az
+namespace Base
 {
     class Advertising
     {

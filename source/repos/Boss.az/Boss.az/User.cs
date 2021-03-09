@@ -6,7 +6,7 @@ namespace Base
 {
     class User
     {
-        StringBuilder login { get; set; }
-        StringBuilder password { get; set; }
+       public StringBuilder login { get; set; }
+       public StringBuilder password { get; set; }
     }
 }
