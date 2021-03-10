@@ -1,0 +1,10 @@
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\bin\Debug\Winforms Ev isi 1.exe.config
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\bin\Debug\Winforms Ev isi 1.exe
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\bin\Debug\Winforms Ev isi 1.pdb
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\obj\Debug\Winforms Ev isi 1.csprojAssemblyReference.cache
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\obj\Debug\Winforms_Ev_isi_1.BakuOrLondon.resources
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\obj\Debug\Winforms_Ev_isi_1.Properties.Resources.resources
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\obj\Debug\Winforms Ev isi 1.csproj.GenerateResource.cache
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\obj\Debug\Winforms Ev isi 1.csproj.CoreCompileInputs.cache
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\obj\Debug\Winforms Ev isi 1.exe
+C:\Users\tamsa1\source\repos\Winforms Ev isi 1\Winforms Ev isi 1\obj\Debug\Winforms Ev isi 1.pdb
